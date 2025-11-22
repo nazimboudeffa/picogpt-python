@@ -49,9 +49,7 @@ picogpt-python/
 ├── picogpt/
 │   └── config.json          # Model configuration
 ├── simple_english_phrases.txt  # Training data
-├── simple_french_phrases.txt   # Additional French phrases
-├── simple_french_dictionary.txt # French vocabulary
-├── suggestion_1.md          # Development notes
+├── notes.md          # Development notes
 ├── LICENSE                  # License file
 └── README.md               # This file
 ```
@@ -71,7 +69,7 @@ picogpt-python/
 ```bash
 # Clone the repository
 git clone https://github.com/nazimboudeffa/picogpt-python.git
-cd french-gpt-python
+cd picogpt-python
 
 # Install dependencies
 pip install torch tiktoken tqdm jupyter
