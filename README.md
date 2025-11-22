@@ -1,4 +1,4 @@
-# French GPT - PicoGPT Python
+# PicoGPT Python
 
 A lightweight GPT-style language model implementation in PyTorch for learning and experimentation with transformer architectures. This project trains a small-scale GPT model on simple English phrases to understand language generation fundamentals.
 
@@ -70,7 +70,7 @@ picogpt-python/
 
 ```bash
 # Clone the repository
-git clone https://github.com/nazimboudeffa/french-gpt-python.git
+git clone https://github.com/nazimboudeffa/picogpt-python.git
 cd french-gpt-python
 
 # Install dependencies
@@ -198,7 +198,7 @@ Contributions are welcome! Feel free to:
 **Nazim Boudeffa**
 
 - GitHub: [@nazimboudeffa](https://github.com/nazimboudeffa)
-- Repository: [french-gpt-python](https://github.com/nazimboudeffa/french-gpt-python)
+- Repository: [picogpt-python](https://github.com/nazimboudeffa/picgpt-python)
 
 ---
 
