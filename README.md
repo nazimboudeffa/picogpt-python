@@ -49,7 +49,6 @@ picogpt-python/
 ├── picogpt/
 │   └── config.json          # Model configuration
 ├── simple_english_phrases.txt  # Training data
-├── notes.md          # Development notes
 ├── LICENSE                  # License file
 └── README.md               # This file
 ```
